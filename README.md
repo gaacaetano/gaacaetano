@@ -3,7 +3,7 @@
 ##
 
 - 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying for AWS Cloud Practitioner Certification
 - 📫 E-mail: gabrielcaetano@outlook.com
 - 📱 WhatsApp: +55 (11) 95859-7845
 - 😄 Pronouns: him/his
