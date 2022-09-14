@@ -2,8 +2,10 @@
 
 ##
 
-- 🔭 I’m currently working with back-end
-- 🌱 I’m currently studying for AWS Cloud Practitioner Certification
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaacaetano&label=Profile%20views&color=red&style=for-the-badge" alt="gaacaetano" /> </p>
+
+- 🔭 I’m currently working with .NET
+- 🌱 I’m currently studying for AZ-900 Certification
 - 📫 E-mail: gabrielcaetano@outlook.com
 - 📱 WhatsApp: +55 (11) 95859-7845
 - 😄 Pronouns: him/his
