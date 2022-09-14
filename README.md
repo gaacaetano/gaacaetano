@@ -2,9 +2,10 @@
 
 ##
 
-- 🔭 I’m currently working on with back-end
+- 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: gabrielcaetano@outlook.com / +55 (11) 95859-7845
+- 📫 E-mail: gabrielcaetano@outlook.com
+- 📱 WhatsApp: +55 (11) 95859-7845
 - 😄 Pronouns: him/his
 
 <div>
