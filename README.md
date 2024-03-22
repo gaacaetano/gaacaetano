@@ -1,7 +1,5 @@
 #### Hi, I'm Gabriel Caetano 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gaacaetano&label=Profile%20views&color=red&style=for-the-badge" alt="gaacaetano" /> </p>
 
-[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://www.milanjovanovic.tech/)
-
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gaacaetano)
 
 ## **I'm a Software Engineer.**
